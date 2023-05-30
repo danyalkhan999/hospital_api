@@ -24,7 +24,7 @@ There can be 2 types of Users
 
 ## How to USE?
 
-URL: ` http://localhost:8000/api/v1`
+URL: ` http://localhost:3000`
 
 #### End Points:
 1. `/doctor/register`(POST): Register the new doctor using name,email and password(all requireds).
